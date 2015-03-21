@@ -1,0 +1,16 @@
+{
+    "contents" : "---\ntitle: \"CodeBook.md\"\nauthor: \"Paolo Posocco\"\ndate: \"Saturday, March 21, 2015\"\noutput: html_document\n---\n### Raw Data\nThe `UCI HAR Dataset` folder includes these files:\n\n* `train/X_train.txt`: Training set.\n\n* `train/y_train.txt`: Training labels.\n\n* `train/X_train.txt`: Training set.\n\n* `train/y_train.txt`: Training labels.\n\n* `test/X_test.txt`: Test set.\n\n* `test/y_test.txt`: Test labels.\n\n* `test/X_test.txt`: Test set.\n\n* `test/y_test.txt`: Test labels.\n\n* `README.txt` information about the dataset.\n\n* `features_info.txt`: describe the variables used in the feature vector.\n\n* `features.txt`: Features' list.\n\n* `activity_labels.txt`: Labels-activity relationship table.\n\n### Variables used in the run_analysis.R script\n\n* `x_train`, `y_train`, `x_test`, `y_test`, `subject_train` and `subject_test` are the cariables relative to the files in the `UCI HAR Dataset` folder.\n* `x_data`, `y_data` and `subject_data`  are used to append test data to train data.\n* `features` and `activities` are the dataframes containing correct names for features and activities.\n* `x_data_meanStd` subset the columns of `x_data` which contains mean() or std() in the names.\n* `mergedData` contains merged data of  `x_data_meanStd`, `y_data` and `subject_data`.\n* `final_data` contains the independent tidy data set with the average of each variable for each activity and each subject.      \n\n",
+    "created" : 1426949002352.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "156438321",
+    "id" : "ADDB4E66",
+    "lastKnownWriteTime" : 1426960070,
+    "path" : "F:/Dropbox/UNI/Tesi/R/Coursera/Getting and cleaning data/Getting and cleaning data project/Getting-and-Cleaning-Data-Project/CodeBook.md",
+    "project_path" : "CodeBook.md",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}

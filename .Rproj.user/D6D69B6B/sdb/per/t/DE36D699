@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1426953887384.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DE36D699",
+    "lastKnownWriteTime" : 32651513910263809,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "subject_data",
+        "contentUrl" : "content?title=subject_data&file=ae21b4f337c84908b8bfdaf60a04098c.htm",
+        "displayedObservations" : 1000,
+        "displayedVariables" : 1,
+        "totalObservations" : 10299,
+        "variables" : 1
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

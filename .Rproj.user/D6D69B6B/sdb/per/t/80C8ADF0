@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1426953655476.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "80C8ADF0",
+    "lastKnownWriteTime" : 32651513910263809,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "y_data",
+        "contentUrl" : "content?title=y_data&file=3c819848cc69458eb3248e2b2cd8ab29.htm",
+        "displayedObservations" : "1000",
+        "displayedVariables" : 1,
+        "totalObservations" : "10299",
+        "variables" : "1"
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
